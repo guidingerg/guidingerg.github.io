@@ -1,35 +1,56 @@
+
 body 
 
 {
 	background-image: url("tmon_italian_food_pizza_shutterstock_562149826-1544196647-7384.jpeg");
+	Background-color: black;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-position: center;
+	background-position: left;
 }
+
 
 h1 
 
 {
-	color: black;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 
 
 {
-	color: black;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
 }
+
+p1
+
+{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
 
 h3 
 
 {
-	color: black;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 h4
 
 {
 	color: black;
+	font-family: Arial, Helvetica, sans-serif;
 }
+
+table 
+
+{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
 
 
 
