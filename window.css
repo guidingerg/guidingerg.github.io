@@ -1,0 +1,63 @@
+
+body 
+
+{
+	background-image: url("window.jpg");
+	background-size: contain;
+	Background-color: black;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: left;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+
+ 
+
+
+
+
+h1 
+
+{
+	color: black;
+	 font-family: 'Trebuchet MS', sans-serif;
+}
+
+h2 
+
+{
+	color: black;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+p1
+
+{
+	color: black;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+
+h3 
+
+{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h4
+
+{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+table 
+
+{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+
+
+
